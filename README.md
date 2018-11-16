@@ -1,4 +1,4 @@
-# TrabProgWeb
+# Trabalho Prog. Web
 Trabalho Programação Web
 # Alunos : 
          # Gabriel Vasconcelos
