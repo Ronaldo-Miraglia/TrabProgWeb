@@ -1,0 +1,17 @@
+Controle
+--controller.php
+
+Model
+--ClienteClass.php
+--Home.php
+--Catalogo.php
+--PlayerDeVideo.php
+--Compra.php
+
+View
+--HomePage
+--TrailerPage
+--AnimePage
+--CompraPage
+--CatalogoPessoalPage
+--
