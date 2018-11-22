@@ -1,8 +1,12 @@
 # Trabalho Prog. Web
-Trabalho Programação Web
+Trabalho da Disciplina Programação Web - FACOM/UFMS
+
 Utilizando as Tecnologias:
+
 CakePhp
+
 MySQL
+
 XAMPP
 
 # Alunos : 
